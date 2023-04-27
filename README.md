@@ -8,9 +8,9 @@ As a group, we discuss the latest bitcoin news from a technical perspective. Som
 
 We also aim to occaisionally try new software or tutorials as a group, building applicable skills within a supportive group environment. So please try to bring a laptop machine along with you! MacOS or Linux preferred (for windows [you could use a virtual machine](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)).
 
-## News items
+## News items for this month
 
-Please suggest any noteworthy topics of discussion for next month in the github issue!
+Please suggest any noteworthy topics on next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)!
 
 ## Group Activity Options
 
