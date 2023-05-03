@@ -2,17 +2,19 @@
 
 Melbourne Bitdevs is on the last thursday of every month at the RMIT Blockchain Hub.
 
-** [Join the telegram](https://t.me/+6B_js_rFZ0syY2E1) in order to confirm the time of event - and be let upstairs **
+As a group, we discuss the latest Bitcoin news from a technical perspective. Sometimes we diverge into adjacent fields of privacy, self hosting, free software, and more!
 
-As a group, we discuss the latest bitcoin news from a technical perspective. Sometimes we diverge into adjacent fields of privacy, self hosting, free software, etc.
+**[Join the telegram](https://t.me/+6B_js_rFZ0syY2E1) in order to confirm the time of event - and be let upstairs!**
 
-We also aim to occaisionally try new software or tutorials as a group, building applicable skills within a supportive group environment. So please try to bring a laptop machine along with you! MacOS or Linux preferred (for windows [you could use a virtual machine](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)).
+We usually have a larger group than meetup pages indicate. Privacy of attendees is respected, no photos/recordings.
 
 ## News items for this month
 
-Please suggest any noteworthy topics on next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)!
+Please suggest any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)! We're open to discussing pretty much anything Bitcoin or Bitcoin-adjacent!
 
-## Group Activity Options
+## Group Activity
+
+We aim to occasionally try new software or tutorials as a group, building applicable skills within a supportive group environment. So please try to bring a laptop machine along with you! MacOS or Linux preferred (for windows [you could use a virtual machine](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)).
 
 Accumulating list of possible tasks we might be interested in exploring as a group. Please try have access to MacOS or Linux
 
@@ -22,7 +24,13 @@ Build a taproot multisig with your friends, and to spend from it. carrot Create 
 
 https://github.com/danielabrozzoni/multisigs_and_carrots
 
-### Silent Payments on Signet (old link broken)
+### Breeze SDK
+
+Integrate Lightning and bitcoin payments into apps with a very shallow learning curve.
+
+https://github.com/breez/breez-sdk
+
+### Silent Payments on Signet
 
 Like BIP47 (paynym) without notification transactions
 
