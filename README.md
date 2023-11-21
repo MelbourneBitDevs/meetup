@@ -1,3 +1,5 @@
+Please post any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)!
+
 ## Melbourne Bitdevs
 
 Melbourne Bitdevs is on the last thursday of every month at the RMIT Blockchain Hub from 6pm with topics starting at 6:30pm.
@@ -10,7 +12,7 @@ Privacy of attendees is respected, no photos/recordings.
 
 ## Add topics to discuss this month!
 
-Please suggest any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)! We're open to discussing pretty much anything Bitcoin, news, free software, tech, privacy, or related!
+Please share any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)! We're open to discussing pretty much anything Bitcoin, news, free software, tech, privacy, or related!
 
 ## Past Topics
 
