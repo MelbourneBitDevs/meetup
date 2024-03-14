@@ -35,7 +35,7 @@ https://github.com/chaincase-app/loin/
 
 Core Lightning (CLN) is a lightweight, highly customizable and standard compliant implementation of the Bitcoin Lightning Network protocol. We're going to spin up a couple nodes, make a regtest lightning network, and sling some sats around making payments between the nodes.
 
-https://replit.com/@KodyLow/Base58-A-Tour-Of-Core-Lightning
+https://github.com/Kodylow/Base58-A-Tour-Of-Core-Lightning
 
 ### Tutorial: How to develop a Non-Custodial Bitcoin Lightning Wallet using Flutter and LDK
 
