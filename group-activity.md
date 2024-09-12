@@ -39,4 +39,4 @@ https://github.com/Kodylow/Base58-A-Tour-Of-Core-Lightning
 
 ### Tutorial: How to develop a Non-Custodial Bitcoin Lightning Wallet using Flutter and LDK
 
-https://bolt.fun/story/tutorial-how-to-develop-a-non-custodial-bitcoin-lightning-wallet-using-flutter-and-ldk--1153
+https://dev.to/anipy/tutorial-how-to-develop-a-non-custodial-bitcoin-lightning-wallet-using-flutter-and-ldk-13ik
